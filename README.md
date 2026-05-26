@@ -1,4 +1,4 @@
-###ToxCore###
+###ToxCore
 Project Overview
 ToxCore is an AI-powered online toxicity detection and support platform. It analyzes user-submitted text comments for harmful content and provides an intelligent chatbot assistant to help users understand toxicity and stay safe online.
 
